@@ -15,3 +15,5 @@ Critical Infrastructure Control Systems (e.g., power grids)
 
 This repository provides a neutral audit framework.
 It does not assert fault or assign liability.
+
+This audit framework is derived from the broader SIA (Self-Imprint Attribution) research.
