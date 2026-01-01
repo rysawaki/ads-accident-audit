@@ -15,9 +15,8 @@ Critical Infrastructure Control Systems (e.g., power grids)
 
 
 ---
-
-## Mapping Between **SIA Minimal Audit Logs** and **Logs Actually Disclosed or Contested in Western Court / Regulatory Cases**
-
+## Mapping Between Minimal Post-Incident Audit Logs
+and Logs Actually Disclosed or Contested in Western Court / Regulatory Cases
 ---
 
 ### 1️⃣ Perception Layer
