@@ -12,10 +12,6 @@ Large Language Models (LLMs)
 
 Critical Infrastructure Control Systems (e.g., power grids)
 
-
-了解。**SIA という名称をすべて外し、完全に中立な表現**に書き換える。
-そのまま README に貼れる **英語 Markdown** を出す。
-
 ---
 
 ## Mapping Between **Minimal Post-Incident Audit Logs** and Logs Actually Disclosed or Contested in Western Court / Regulatory Cases
